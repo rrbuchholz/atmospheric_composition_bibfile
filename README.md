@@ -5,6 +5,6 @@ A constantly updated universal bibtex file stored on GitHub that I can use with 
 - biomass burning
 - climate-chemistry interactions
 - global modelling
-- remote-sensing
+- remote-sensing (both satellite and ground-based)
 
 However, there may be other relevant articles referenced.
